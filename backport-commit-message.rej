@@ -1,0 +1,9 @@
+fixes #9483 - median unselects order by on all buckets
+
+Backports PR #9787
+
+**Commit 1:**
+fixes #9483
+
+* Original sha: 14f209468750fe7c6c69e3af4ebbe610c8327813
+* Authored by ppisljar <peter.pisljar@gmail.com> on 2017-01-09T07:52:58Z
